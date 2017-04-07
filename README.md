@@ -2,7 +2,7 @@
 
 ## WYSIWYG - jQuery Version
 
-![Car](https://github.com/nss-evening-cohort-05/spa-milestone-challenge-webbdm/blob/challenge/img/Swift.png)
+![Car]()
 
 ## Goal
 The goal for this assignment was to redo the original version of WYSIWYG, translating all of the vanilla Javascript to jQuery.
@@ -11,5 +11,5 @@ The goal for this assignment was to redo the original version of WYSIWYG, transl
 - To modify a bio, click on the card, type new info, and hit Enter 
 - To modify a person's original info, edit the data in the their corresponding object
 
-![Car](https://github.com/nss-evening-cohort-05/spa-milestone-challenge-webbdm/blob/challenge/img/SwiftAuto.jpg)
+![Car]()
 WYSIWY 
